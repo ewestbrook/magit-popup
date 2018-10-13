@@ -1,0 +1,1 @@
+../eew/ewbuild/magit-popup.el/ewbuild.sh
